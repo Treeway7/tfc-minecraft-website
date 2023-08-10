@@ -12,8 +12,8 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v1
 
-      - name: Deploy the site
-        uses: benmatselby/hugo-deploy-gh-pages@2.1.0
+      - name: Hugo Deploy GitHub Pages
+        uses: benmatselby/hugo-deploy-gh-pages@v2.1.0
         env:
           HUGO_VERSION: 0.115.1
           TARGET_REPO: https://github.com/Treeway7/tfc-minecraft-website
