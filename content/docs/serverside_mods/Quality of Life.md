@@ -10,7 +10,6 @@ title: "Quality of Life"
 
 The following Vanilla Tweak datapacks are on the server:
 
-- Anti Enderman Grief
 - Armor Statues
 - Bat Membranes (Phantoms don't spawn in the overworld!)
 - Custom Portals
@@ -38,41 +37,17 @@ Prevents you from dropping or despawning your items on death.
 
 Your items will be protected from other players for 1 minute. After that, anyone could pick up your stuff.
 
----------
-## Villagers
-
-### [Villager Tweaks](https://www.curseforge.com/minecraft/mc-mods/villagertweaks)
-
-- Villagers are now guaranteed to be converted to zombie villagers in Easy or Normal mode.
-- Curing a zombie villager takes 15 seconds instead of the usual 3 minutes.
-- Trade prices are global.
-- Hitting a villager will not cause a price penalty.
-
-### [Trade Cycling](https://modrinth.com/mod/trade-cycling)
-
-Allows for villager trades to be cycled when they first get a job.
-
-This mod doesn't work in vanilla - it must be added to a player's mod folder for it to work.
-
----------
-
 ## [TrashSlot](https://modrinth.com/mod/trashslot?hl=en-US)
 
 Adds a trash slot to your inventory.
 
-This mod doesn't work in vanilla - it must be added to a player's mod folder for it to work.
+This mod doesn't work in vanilla - it also must be added to a player's mod folder for it to work.
 
 ## [Where Is It](https://modrinth.com/mod/where-is-it)
 
 Hover your cursor over an item in your inventory, then press Y to locate it in chests around you.
 
-This mod doesn't work in vanilla - it must be added to a player's mod folder for it to work.
-
-## [Followers Teleport Too](https://modrinth.com/mod/followers-teleport-too)
-
-Allows for your pets to teleport with you when you use teleport commands.
-
-Note that pets will be invulnerable for 20 seconds after warping to prevent them from suffocating or taking fall damage.
+This mod doesn't work in vanilla - it also must be added to a player's mod folder for it to work.
 
 ## [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby)
 
@@ -81,6 +56,10 @@ If you break a tower of scaffolding , it'll all drop neatly next to your feet in
 ## [Forgiving Void](https://modrinth.com/mod/forgiving-void?hl=en-US)
 
 If you fall into the void (ie. in The End or by breaking through bedrock), you will be warped to the top of the world instead of dying. When you land, you will take 9.5 hearts of damage. If a player had full health, they would be left at half a heart.
+
+## [Double Doors](https://modrinth.com/mod/double-doors)
+
+If two doors are placed next to each other, they will both open at the same time when interacted with, instead of just one.
 
 ## [No Chat Reports](https://modrinth.com/mod/no-chat-reports/versions?hl=en-US)
 
