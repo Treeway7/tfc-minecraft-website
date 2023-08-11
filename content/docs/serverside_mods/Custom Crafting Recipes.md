@@ -14,6 +14,10 @@ Smelt Rotten Flesh in a furnace to convert it to Leather.
 
 The bundle recipe usually uses rabbit hide. Now you can craft it using Leather, too!
 
+## String from Wool
+
+Place 1 of any wool into a crafting table to get 4 string.
+
 # Datapacks
 
 ## [OmniCut](https://modrinth.com/datapack/omnicut-better-wood-stone-cutter/version/1.11.0+1.20?hl=en-US)
