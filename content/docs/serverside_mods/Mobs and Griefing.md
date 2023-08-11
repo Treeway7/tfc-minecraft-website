@@ -1,7 +1,7 @@
 ---
 weight: 6
 bookFlatSection: true
-title: "Fun and Decoration"
+title: "Mobs and Griefing"
 ---
 
 
