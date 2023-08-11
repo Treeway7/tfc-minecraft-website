@@ -38,11 +38,23 @@ Prevents you from dropping or despawning your items on death.
 
 Your items will be protected from other players for 1 minute. After that, anyone could pick up your stuff.
 
-## [Trade Cycling](https://modrinth.com/mod/trade-cycling)
+---------
+## Villagers
+
+### [Villager Tweaks](https://www.curseforge.com/minecraft/mc-mods/villagertweaks)
+
+- Villagers are now guaranteed to be converted to zombie villagers in Easy or Normal mode.
+- Curing a zombie villager takes 15 seconds instead of the usual 3 minutes.
+- Trade prices are global.
+- Hitting a villager will not cause a price penalty.
+
+### [Trade Cycling](https://modrinth.com/mod/trade-cycling)
 
 Allows for villager trades to be cycled when they first get a job.
 
 This mod doesn't work in vanilla - it must be added to a player's mod folder for it to work.
+
+---------
 
 ## [TrashSlot](https://modrinth.com/mod/trashslot?hl=en-US)
 
